@@ -1,2 +1,0 @@
-# ObamaGaming
-Created with CodeSandbox
